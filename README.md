@@ -31,4 +31,8 @@ Code is in this repository.
 
 ## Create something
 
-Use Vue.js and create simple To-Do app with backend (save to file, UI / UX not important).  TypeScript preferred but not necessary.
+- Deploy an AWS API GW
+- Deploy and connect your lambda
+- Your lambda should take in a POST request that takes in name and age and place that item on an AWS SQS queue.
+- A second lambda should be triggered from the SQS queue and write the item to a dynamodb table.
+Typescript would be best, but Javascript is also fine.
