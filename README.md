@@ -29,7 +29,7 @@ Code is in this repository.
 
 **Find out why, fix it and write report on why did it happen.**
 
-## Create something
+## Create something whilst learning something new
 
 - Deploy an AWS API GW
 - Deploy and connect your lambda
