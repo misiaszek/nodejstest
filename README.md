@@ -22,6 +22,16 @@
 
 - What is TypeScript? Do you use it? Why / why not?
 
+- What are the key differences between regular and arrow functions?
+
+- What is destructuring?
+
+- Explain the difference:
+```ts
+const a: string = "hello";
+const a = "hello" as string;
+```
+
 ## Problem solving
 
 You get an error report from testing crew - User API doesn't return "Test User" data for ID: 1.
